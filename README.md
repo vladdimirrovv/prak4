@@ -4,9 +4,9 @@
 
 ## Структура
 ```
-├── client.c # Клиент/
-├── server.c # Сервер/
-├── Makefile # Сборка/
+├── client.c # Клиент
+├── server.c # Сервер
+├── Makefile # Сборка
 └── README.md
 ```
 
